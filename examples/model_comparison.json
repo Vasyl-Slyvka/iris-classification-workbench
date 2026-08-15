@@ -1,0 +1,42 @@
+[
+  {
+    "accuracy_mean": 0.9622222222222222,
+    "accuracy_std": 0.04192880503136268,
+    "balanced_accuracy_mean": 0.9622222222222222,
+    "f1_macro_mean": 0.962331080225817,
+    "fit_time_mean_seconds": 0.002093505859375,
+    "model": "rbf_svm"
+  },
+  {
+    "accuracy_mean": 0.9600000000000002,
+    "accuracy_std": 0.03030707043774634,
+    "balanced_accuracy_mean": 0.9600000000000001,
+    "f1_macro_mean": 0.9599377230956178,
+    "fit_time_mean_seconds": 0.0016168753306070964,
+    "model": "knn"
+  },
+  {
+    "accuracy_mean": 0.9600000000000001,
+    "accuracy_std": 0.034854193647462485,
+    "balanced_accuracy_mean": 0.9600000000000001,
+    "f1_macro_mean": 0.9598659949537142,
+    "fit_time_mean_seconds": 0.19592421849568684,
+    "model": "random_forest"
+  },
+  {
+    "accuracy_mean": 0.9533333333333334,
+    "accuracy_std": 0.03610683735393759,
+    "balanced_accuracy_mean": 0.9533333333333334,
+    "f1_macro_mean": 0.9531826198492864,
+    "fit_time_mean_seconds": 0.00350341796875,
+    "model": "logistic_regression"
+  },
+  {
+    "accuracy_mean": 0.9511111111111111,
+    "accuracy_std": 0.03823255674241166,
+    "balanced_accuracy_mean": 0.9511111111111111,
+    "f1_macro_mean": 0.95099938398184,
+    "fit_time_mean_seconds": 0.0010688304901123047,
+    "model": "gaussian_nb"
+  }
+]

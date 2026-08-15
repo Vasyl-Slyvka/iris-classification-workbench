@@ -1,0 +1,29 @@
+{
+  "class_counts": {
+    "Iris-setosa": 50,
+    "Iris-versicolor": 50,
+    "Iris-virginica": 50
+  },
+  "duplicate_rows": 3,
+  "feature_ranges": {
+    "petal_length_cm": {
+      "max": 6.9,
+      "min": 1.0
+    },
+    "petal_width_cm": {
+      "max": 2.5,
+      "min": 0.1
+    },
+    "sepal_length_cm": {
+      "max": 7.9,
+      "min": 4.3
+    },
+    "sepal_width_cm": {
+      "max": 4.4,
+      "min": 2.0
+    }
+  },
+  "features": 4,
+  "missing_values": 0,
+  "rows": 150
+}
